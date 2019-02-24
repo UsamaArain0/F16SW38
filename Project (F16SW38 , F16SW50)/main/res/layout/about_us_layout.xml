@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="@drawable/styles"
+
+    >
+
+    <TextView
+        android:id="@+id/names"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="F16SW38 AND F16SW50"
+        android:textSize="25dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_below="@+id/names"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="50dp"
+        android:text="Universities are always trying to find the best solution to manage their attendance system More and more of them are discovering the benefits of different systems
+If you are still using paper-based attendance records, now its time to change using this app."
+        android:textAlignment="center"
+        android:textColor="#FF75A8E7"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+
+
+</RelativeLayout>

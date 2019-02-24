@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/styles"
+    android:padding="30dp"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/add_new_teacher"
+        android:layout_centerVertical="true"
+        android:text="Add new teacher"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/login_page"
+        android:textSize="20dp"
+
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/teacher_available_currently"
+        android:textStyle="bold"
+        android:text=" My Teachers"
+        android:background="@drawable/login_page"
+        android:layout_below="@+id/add_new_teacher"
+        android:layout_marginTop="50dp"
+        android:textSize="20dp"
+        />
+
+</LinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/colorPrimary">
+
+<TextView
+    android:id="@+id/teacher_lable"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="TEACHERS DETAIL"
+    android:textSize="20dp"
+    android:textStyle="bold"
+    android:textAlignment="center"
+    android:textColor="@android:color/holo_red_light"/>
+        <!--<ImageView-->
+            <!--android:id="@+id/t_icon"-->
+            <!--android:layout_width="100dp"-->
+            <!--android:layout_height="100dp"-->
+            <!--android:src="@drawable/teacher"/>-->
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/t_name"-->
+        <!--android:layout_toRightOf="@+id/t_icon"-->
+        <!--android:layout_marginLeft="20dp"-->
+        <!--android:text="Teacher Name"-->
+        <!--android:textSize="20dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--/>-->
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/t_id"-->
+        <!--android:layout_toRightOf="@+id/t_icon"-->
+        <!--android:layout_below="@+id/t_name"-->
+        <!--android:layout_marginLeft="20dp"-->
+        <!--android:text="Teacher ID"-->
+        <!--android:textSize="20dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--/>-->
+    <ListView
+        android:id="@+id/teacher_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/teacher_lable"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/white"
+
+        android:fitsSystemWindows="true">
+
+    </ListView>
+
+
+
+</RelativeLayout>

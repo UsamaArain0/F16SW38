@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="16dp"
+
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/lable_of_attendence"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Student Attendence"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/faltu"
+        android:layout_below="@+id/present_percentage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/present_percentage"
+        android:layout_alignLeft="@+id/present_percentage"
+        android:text="Present"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_green_dark"
+
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/absent_percentage"
+        android:layout_alignRight="@+id/absent_percentage"
+        android:layout_alignLeft="@+id/absent_percentage"
+        android:text="Absent"
+        android:textColor="@android:color/holo_red_dark"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+   <TextView
+       android:layout_marginTop="20dp"
+       android:layout_below="@+id/lable_of_attendence"
+       android:id="@+id/present_percentage"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="80%"
+       android:textColor="@android:color/holo_green_dark"
+
+       android:textSize="80dp"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/lable_of_attendence"
+       android:layout_alignRight="@+id/lable_of_attendence"
+        android:id="@+id/absent_percentage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="20%"
+          android:textColor="@android:color/holo_red_dark"
+        android:textSize="80dp"/>
+    <ListView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/present_list"
+        android:layout_below="@+id/faltu"
+        android:layout_marginTop="10dp"></ListView>
+</RelativeLayout>

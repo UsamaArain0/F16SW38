@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="26dp"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/styles"
+    android:layout_height="match_parent"
+    >
+
+
+
+    <EditText
+
+        android:layout_marginTop="100dp"
+        android:id="@+id/teacher_name"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Enter Teacher Name"
+        style="@style/Base.Widget.AppCompat.ActionBar.Solid"
+        android:layout_centerHorizontal="true"
+        android:inputType="textPersonName"
+        android:background="@drawable/login_page"/>
+    <EditText
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:id="@+id/teacher_email"
+        android:layout_below="@+id/teacher_name"
+        android:layout_height="50dp"
+        android:background="@drawable/login_page"
+        android:hint="Enter Teacher Email"
+        style="@style/Base.Widget.AppCompat.ActionBar.Solid"
+        android:layout_centerHorizontal="true"
+        android:inputType="textWebEmailAddress"/>
+
+    <EditText
+        android:background="@drawable/login_page"
+        android:layout_marginTop="20dp"
+        android:id="@+id/teacher_id"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/teacher_email"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:hint="Enter Teacher ID"
+        style="@style/Base.Widget.AppCompat.ActionBar.Solid"
+        android:layout_centerHorizontal="true"
+        android:inputType="text"/>
+    <Button
+        android:id="@+id/add_to_database"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/teacher_id"
+        android:layout_marginTop="30dp"
+        android:text="Add teacher to Database"
+        android:background="@drawable/login_page"/>
+
+</RelativeLayout>
