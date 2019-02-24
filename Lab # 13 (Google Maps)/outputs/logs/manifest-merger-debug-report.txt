@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c3c2627d27c213f8467a385e59413418\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\31bf0d9e686b05d4e02f7c5bc4458097\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\df4296a9c7eca110d0e6cf90f843a4a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1bfbdd69ed5ffed34d0d6542b3c31d10\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3c1623ebe9c7cd18b09d31578f07ed1c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7b7928ab7c9d520defeb9a86609aab49\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9d7395aa3f3fd8f657e82b99ad3e4e52\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3d2a6c69f1e2efab115d5c392c56377c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f3d0f50f11c6b6297349dee65ce148ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\79495e3bf3ef56c0589df589285305e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1f0d7c031dc2d5d960dbcdd7c4afc566\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a727e52c5d13d1b3f5033e6aa54ab5a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8e090afaa2e6194e1028effe282c4631\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a9c1477eb14a02093b73c06144116700\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\972edc73e7d311b5a5f1856e9ef7d14e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fb18b966889f5f09e775ae17c6a704a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cf63d8c65992f70786a8acc969d44275\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b3640457be4295582ff6737e603d73bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\af650c16f2585ee0f28e891448cda099\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4c1d99ffd6cadaee116d626d7c4de037\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb64c6315956a04acf55ba0885fd6aa5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a0b59b96f3ed545d5982df20dec5f1db\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9d572e019e6da37361b50c17cbd0a48d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\16eaef3a6c8b693bc048a41a08b84e3b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\df5eb5f5013bfdcdf66b2ea1a37141f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d9c4e398d2bdef0a24590255d7e9a714\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b96811a3b135e075a4f5d68d1a48fc75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\64c3d2cad5a5552eb05fe2cc9d30fccd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\48f32cda2a5b66270895a0e18200b4fb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b760cc4c8da0b2a2b1dc2aa05ea86068\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\90aaaf355553c6cc37c6a0242344b9b4\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:12:5-98
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:12:22-95
+application
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:14:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1bfbdd69ed5ffed34d0d6542b3c31d10\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1bfbdd69ed5ffed34d0d6542b3c31d10\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3c1623ebe9c7cd18b09d31578f07ed1c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3c1623ebe9c7cd18b09d31578f07ed1c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7b7928ab7c9d520defeb9a86609aab49\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7b7928ab7c9d520defeb9a86609aab49\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9d7395aa3f3fd8f657e82b99ad3e4e52\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9d7395aa3f3fd8f657e82b99ad3e4e52\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3d2a6c69f1e2efab115d5c392c56377c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3d2a6c69f1e2efab115d5c392c56377c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4c1d99ffd6cadaee116d626d7c4de037\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4c1d99ffd6cadaee116d626d7c4de037\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb64c6315956a04acf55ba0885fd6aa5\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb64c6315956a04acf55ba0885fd6aa5\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4c1d99ffd6cadaee116d626d7c4de037\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:20:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:29:9-31:55
+	android:value
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:30:13-58
+activity#com.example.muhammadusama.googletracker.MapsActivity
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c3c2627d27c213f8467a385e59413418\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c3c2627d27c213f8467a385e59413418\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\31bf0d9e686b05d4e02f7c5bc4458097\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\31bf0d9e686b05d4e02f7c5bc4458097\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\df4296a9c7eca110d0e6cf90f843a4a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\df4296a9c7eca110d0e6cf90f843a4a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1bfbdd69ed5ffed34d0d6542b3c31d10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1bfbdd69ed5ffed34d0d6542b3c31d10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3c1623ebe9c7cd18b09d31578f07ed1c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3c1623ebe9c7cd18b09d31578f07ed1c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7b7928ab7c9d520defeb9a86609aab49\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7b7928ab7c9d520defeb9a86609aab49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9d7395aa3f3fd8f657e82b99ad3e4e52\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9d7395aa3f3fd8f657e82b99ad3e4e52\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3d2a6c69f1e2efab115d5c392c56377c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3d2a6c69f1e2efab115d5c392c56377c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f3d0f50f11c6b6297349dee65ce148ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f3d0f50f11c6b6297349dee65ce148ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\79495e3bf3ef56c0589df589285305e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\79495e3bf3ef56c0589df589285305e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1f0d7c031dc2d5d960dbcdd7c4afc566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1f0d7c031dc2d5d960dbcdd7c4afc566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a727e52c5d13d1b3f5033e6aa54ab5a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a727e52c5d13d1b3f5033e6aa54ab5a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8e090afaa2e6194e1028effe282c4631\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8e090afaa2e6194e1028effe282c4631\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a9c1477eb14a02093b73c06144116700\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a9c1477eb14a02093b73c06144116700\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\972edc73e7d311b5a5f1856e9ef7d14e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\972edc73e7d311b5a5f1856e9ef7d14e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fb18b966889f5f09e775ae17c6a704a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fb18b966889f5f09e775ae17c6a704a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cf63d8c65992f70786a8acc969d44275\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cf63d8c65992f70786a8acc969d44275\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b3640457be4295582ff6737e603d73bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b3640457be4295582ff6737e603d73bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\af650c16f2585ee0f28e891448cda099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\af650c16f2585ee0f28e891448cda099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4c1d99ffd6cadaee116d626d7c4de037\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\4c1d99ffd6cadaee116d626d7c4de037\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb64c6315956a04acf55ba0885fd6aa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb64c6315956a04acf55ba0885fd6aa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a0b59b96f3ed545d5982df20dec5f1db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a0b59b96f3ed545d5982df20dec5f1db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9d572e019e6da37361b50c17cbd0a48d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9d572e019e6da37361b50c17cbd0a48d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\16eaef3a6c8b693bc048a41a08b84e3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\16eaef3a6c8b693bc048a41a08b84e3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\df5eb5f5013bfdcdf66b2ea1a37141f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\df5eb5f5013bfdcdf66b2ea1a37141f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d9c4e398d2bdef0a24590255d7e9a714\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d9c4e398d2bdef0a24590255d7e9a714\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b96811a3b135e075a4f5d68d1a48fc75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b96811a3b135e075a4f5d68d1a48fc75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\64c3d2cad5a5552eb05fe2cc9d30fccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\64c3d2cad5a5552eb05fe2cc9d30fccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\48f32cda2a5b66270895a0e18200b4fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\48f32cda2a5b66270895a0e18200b4fb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b760cc4c8da0b2a2b1dc2aa05ea86068\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\b760cc4c8da0b2a2b1dc2aa05ea86068\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\90aaaf355553c6cc37c6a0242344b9b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\90aaaf355553c6cc37c6a0242344b9b4\AndroidManifest.xml:20:5-44
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9d7395aa3f3fd8f657e82b99ad3e4e52\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+		ADDED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Paste them again\AndroidStudioProjects\GoogleTracker\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\d06fcafd201fcea8b00ea3ca6cdf11b6\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1bfbdd69ed5ffed34d0d6542b3c31d10\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1bfbdd69ed5ffed34d0d6542b3c31d10\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1bfbdd69ed5ffed34d0d6542b3c31d10\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\1bfbdd69ed5ffed34d0d6542b3c31d10\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7b7928ab7c9d520defeb9a86609aab49\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7b7928ab7c9d520defeb9a86609aab49\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7b7928ab7c9d520defeb9a86609aab49\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9d7395aa3f3fd8f657e82b99ad3e4e52\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3d2a6c69f1e2efab115d5c392c56377c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3d2a6c69f1e2efab115d5c392c56377c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9d7395aa3f3fd8f657e82b99ad3e4e52\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9d7395aa3f3fd8f657e82b99ad3e4e52\AndroidManifest.xml:27:13-51
