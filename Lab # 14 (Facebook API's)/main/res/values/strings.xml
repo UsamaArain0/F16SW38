@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookDemo</string>
+    <string name="facebook_app_id">289432171733270</string>
+    <string name="title_activity_show_user_detail">ShowUserDetail</string>
+</resources>
