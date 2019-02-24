@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\60dc9dc7906de86679fd54a1fbdea331\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fe72db75d2a4553f24935aeee450d4ef\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\1a61070952dd8df2c048a0e0f37b3458\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\bdd08a079dafa2293958cc8d71807785\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\d6a8e5b59bd8fba826074e9964b44e45\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\18f4ebc04c4efac0490ac9ad039b2fe3\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\3492ce8815590533cf65f717eb62eae7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\b144c526caa9202c4f1603a7b573d0f8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\b24ee449a7e44f4025c23bc23e2feb0c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\63099ee774b233b40313433baafb93ef\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\fdaf37b7edb944977bd29f7cda55be8d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\2868d5e43919a975832a02e3a678d3bc\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\a4cef1d88ee276cc5f8a5f57b3303791\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\f387ead6c1a46421673d154e237e0f88\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\74257e83db7382d15124193e9bc209c1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\912b235583b86ddcb75ea4e3e438096a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\9513a947b9670b1e548adf7290c948ce\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\07e4b8e52616a6f57bd56e558b0b5fc2\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\29e154bf02c81585294a7a494a223cad\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\4c6862abfd5c903369853dba13354532\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\2f7f7f13124d523c36bec4b5cd88b726\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9dc0b3caa3d51b9fa2db6394880e71c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3bcb367506840c89fab5097ad96935f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1160204469d93ffe5c0f17063d14bd59\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\428487b42d76e0ebe3fb1db8898ceb58\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:5:22-71
+application
+ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fe72db75d2a4553f24935aeee450d4ef\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fe72db75d2a4553f24935aeee450d4ef\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.muhammadusama.bluetooth.MainActivity
+ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\60dc9dc7906de86679fd54a1fbdea331\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\60dc9dc7906de86679fd54a1fbdea331\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fe72db75d2a4553f24935aeee450d4ef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\fe72db75d2a4553f24935aeee450d4ef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\1a61070952dd8df2c048a0e0f37b3458\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\1a61070952dd8df2c048a0e0f37b3458\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\bdd08a079dafa2293958cc8d71807785\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\bdd08a079dafa2293958cc8d71807785\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\d6a8e5b59bd8fba826074e9964b44e45\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\d6a8e5b59bd8fba826074e9964b44e45\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\18f4ebc04c4efac0490ac9ad039b2fe3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\18f4ebc04c4efac0490ac9ad039b2fe3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\3492ce8815590533cf65f717eb62eae7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\3492ce8815590533cf65f717eb62eae7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\b144c526caa9202c4f1603a7b573d0f8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\b144c526caa9202c4f1603a7b573d0f8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\b24ee449a7e44f4025c23bc23e2feb0c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\b24ee449a7e44f4025c23bc23e2feb0c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\63099ee774b233b40313433baafb93ef\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\63099ee774b233b40313433baafb93ef\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\fdaf37b7edb944977bd29f7cda55be8d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\fdaf37b7edb944977bd29f7cda55be8d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\2868d5e43919a975832a02e3a678d3bc\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\2868d5e43919a975832a02e3a678d3bc\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\a4cef1d88ee276cc5f8a5f57b3303791\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\a4cef1d88ee276cc5f8a5f57b3303791\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\f387ead6c1a46421673d154e237e0f88\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\f387ead6c1a46421673d154e237e0f88\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\74257e83db7382d15124193e9bc209c1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\74257e83db7382d15124193e9bc209c1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\912b235583b86ddcb75ea4e3e438096a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\912b235583b86ddcb75ea4e3e438096a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\9513a947b9670b1e548adf7290c948ce\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\9513a947b9670b1e548adf7290c948ce\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\07e4b8e52616a6f57bd56e558b0b5fc2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\07e4b8e52616a6f57bd56e558b0b5fc2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\29e154bf02c81585294a7a494a223cad\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\29e154bf02c81585294a7a494a223cad\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\4c6862abfd5c903369853dba13354532\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\4c6862abfd5c903369853dba13354532\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\2f7f7f13124d523c36bec4b5cd88b726\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\2f7f7f13124d523c36bec4b5cd88b726\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9dc0b3caa3d51b9fa2db6394880e71c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9dc0b3caa3d51b9fa2db6394880e71c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3bcb367506840c89fab5097ad96935f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a3bcb367506840c89fab5097ad96935f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1160204469d93ffe5c0f17063d14bd59\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1160204469d93ffe5c0f17063d14bd59\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\428487b42d76e0ebe3fb1db8898ceb58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Muhammad Usama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\428487b42d76e0ebe3fb1db8898ceb58\AndroidManifest.xml:20:5-44
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+		ADDED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Paste them again\AndroidStudioProjects\Bluetooth\app\src\main\AndroidManifest.xml
