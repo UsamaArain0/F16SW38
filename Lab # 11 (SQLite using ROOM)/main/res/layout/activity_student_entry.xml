@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="30dp"
+    android:layout_marginLeft="16dp"
+    android:layout_marginBottom="30dp"
+    android:layout_marginRight="16dp"
+    app:layout_goneMarginBottom="16dp"
+    android:layout_centerHorizontal="true"
+    tools:context=".StudentEntry">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="300dp"
+
+        android:id="@+id/studentID"
+        android:layout_centerHorizontal="true"
+        android:hint="Enter Student ID"/>
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="300dp"
+        android:id="@+id/studentName"
+        android:layout_marginTop="60dp"
+        android:layout_below="@+id/studentID"
+        android:layout_centerHorizontal="true"
+        android:hint="Enter Student Name"/>
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="300dp"
+        android:id="@+id/studentDepartment"
+        android:layout_marginTop="60dp"
+        android:layout_below="@+id/studentName"
+        android:layout_centerHorizontal="true"
+        android:hint="Enter Student Department"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="300dp"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/studentDepartment"
+        android:layout_marginTop="90dp"
+        android:text="Save"
+        android:textSize="16dp"
+        android:onClick="saveTask"
+        />
+
+</RelativeLayout>
